@@ -14,6 +14,7 @@ Exploring cloud technologies for scalable and resilient applications.
 Experimenting with machine learning to solve complex problems and uncover new insights.
 
 💡 What Drives Me:
+
 I thrive on helping others learn and grow, mentoring students, and contributing to innovative solutions. My goal is to blend creativity and technical expertise to make a meaningful impact.
 
 📬 Let’s Connect:
